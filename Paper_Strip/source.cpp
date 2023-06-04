@@ -50,6 +50,6 @@ int main()
 {
     vector<int> original = { 1, 4, 3, 2 };
     vector<int> desired = { 1, 2, 4, 3 };
-    cout << minPieces(original, desired) << std::endl; //should print 3 
+    cout << minPieces(original, desired) << std::endl; //3 
 }
 #endif
